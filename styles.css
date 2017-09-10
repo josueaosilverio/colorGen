@@ -1,0 +1,29 @@
+.hexcode{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    top: 50%;
+    position: relative;
+}
+
+h1{
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
+    color: black;
+    font-size: 200px;
+}
+
+.reload{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    top: 10%;
+    position: relative;
+}
+
+h2{
+    -webkit-text-stroke-width: 0.5pt;
+    -webkit-text-stroke-color: white;
+    color: black;
+    font-size: 50px;
+}
